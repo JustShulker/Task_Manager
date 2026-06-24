@@ -11,3 +11,4 @@ window = TaskManagerGUI()
 window.show()
 
 sys.exit(app.exec())
+print("Application closed.")

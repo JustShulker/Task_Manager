@@ -11,5 +11,3 @@ window = TaskManagerGUI()
 window.show()
 
 sys.exit(app.exec())
-print("Application closed.")
-print("ayemwosa is gay")

@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Homework",
+        "completed": false,
+        "priority": "Low",
+        "due_date": "24-06-2026",
+        "due_time": "22:15"
+    }
+]
